@@ -1,7 +1,5 @@
-👋 Hi, I’m @juiceleft88
-I am currently a senior at Cal State LA  majoring in Computer Science.
-I have owned and operated a pizzeria for the last 7 years, and decided to make a career transition to the tech industry. 
-I'd like to document my progress here.
+I am currently a Senior at Cal State LA  majoring in Computer Science.
+After owning and operating a pizzeria for the last 7 years, I decided to make a career transition to the tech industry. 
 
 <!---
 juiceleft88/juiceleft88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
